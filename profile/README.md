@@ -1,4 +1,6 @@
-# ![logo](https://github.com/Quartzly/.github/blob/main/profile/dark-logo.png) Bienvenue sur [Quartzly](https://www.quartzly.fr/)
+![banner](https://github.com/Quartzly/.github/blob/main/profile/banner.png)
+
+# Bienvenue sur [Quartzly](https://www.quartzly.fr/)
 Découvrez notre toute nouvelle solution pour la gestion financière de votre organisation !
 Retrouvez une interface modulaire, des modules bien pensés et avancés comme :
 - De la gestion financière (bilan financier, compte de résultats, sauvegardes et centralisations de factures, etc...) ;
