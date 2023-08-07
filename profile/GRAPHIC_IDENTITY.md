@@ -15,7 +15,7 @@ En effet, nous vous parlions de la signification des couleurs, en voici les vale
 - Confiance en soit
 - Vitalité
 
-Rien de plus parlant qu'une image :
+Rien de plus parlant qu'une image :  
 ![palette](brand_identity/palet.png)
 
 Cela reste très confu, n'est-ce pas ?
