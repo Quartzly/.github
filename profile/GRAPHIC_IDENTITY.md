@@ -12,7 +12,7 @@ D'après la signification des couleurs, nous avons choisit de partir sur une pal
 En effet, nous vous parlions de la signification des couleurs, en voici les valeurs :
 - Courage
 - Enthousiasme
-- Confiance en soit
+- Confiance en soi
 - Vitalité
 
 Rien de plus parlant qu'une image :  
