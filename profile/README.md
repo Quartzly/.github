@@ -11,7 +11,7 @@ Mais également des modules plus spécifiques aux associations :
 Tout pour vous satisfaire et tout cela à un prix concurrentiel !
 
 ## Table des matières
-- [Identité graphique](GRAPHIC_IDENTITY.md)
-- [Grille tarifaire](PRICING.md)
-- [Nos modules](MODULES.md)
-- [Notre équipe](TEAM.md)
+- [Identité graphique](https://github.com/Quartzly/.github/blob/main/profile/GRAPHIC_IDENTITY.md)
+- [Grille tarifaire](https://github.com/Quartzly/.github/blob/main/profile/PRICING.md)
+- [Nos modules](https://github.com/Quartzly/.github/blob/main/profile/MODULES.md)
+- [Notre équipe](https://github.com/Quartzly/.github/blob/main/profile/TEAM.md)
